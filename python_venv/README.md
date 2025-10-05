@@ -146,18 +146,3 @@ deactivate
 rm -rf .venv
 ```
 
-## 12) Next steps / recommendations
-
-- Add `.venv/` to your `.gitignore` (do not commit your virtual environment).
-- Use `requirements.txt` or `pyproject.toml` / `poetry` for reproducible dependency management.
-- Consider `pre-commit` hooks and a `Makefile` or `scripts/` folder to standardize developer workflows.
-
----
-
-If you want, I can also:
-
-- Add a simple `Makefile` or shell helper script to create/activate the venv.
-- Add a `.gitignore` entry or small contribution to this repo.
-- Create a short checklist for onboarding new contributors.
-
-
