@@ -23,7 +23,7 @@ If Python 3 is not installed, install it with Homebrew:
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-brew install python
+brew install python 
 ```
 
 After Homebrew installs, `python3` and `pip3` should be available.
